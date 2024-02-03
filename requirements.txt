@@ -1,7 +1,6 @@
 edge-tts
 googletrans==4.0.0-rc1
 whisper
-random
 transformers
 insanely-fast-whisper
 edge-tts
