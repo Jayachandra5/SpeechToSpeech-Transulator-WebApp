@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'SpeechToSpeechTranslator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C615FB06D0844668FC9367C73E42554 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43D16E0853C04F5DB66B8EEA59F961BF }}
